@@ -1,0 +1,9 @@
+#richTextField{
+	border: #000000 1px solid;
+	width: 700px;
+	height: 300px;
+}
+#wysiwyg_cp{
+	padding: 8px;
+	width: 700px;
+}
